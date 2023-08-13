@@ -1,6 +1,6 @@
 # FIFA-world-cup-sales-dashboard
 
-The FIFA World Cup Sales Dashboard focuses on enhancing the fan experience and boosting revenue at the FIFA World Cup through an innovative visual dashboard. This dashboard monitors food preferences and vital metrics such as wait times, menu items, and sales data. By incorporating predictive analytics and artificial intelligence, the project aims to optimize inventory management, delivery times, and reduce food wastage. These efforts collectively contribute to elevating fan satisfaction, enriching the overall experience, and increasing revenue within the sports industry.
+The FIFA World Cup Sales Dashboard focuses on enhancing the fan experience and boosting revenue at the FIFA World Cup through an innovative visual dashboard. This dashboard monitors food preferences and vital metrics such as wait times, menu items, and sales data. By incorporating predictive analytics and artificial intelligence, the project aims to optimize inventory management, and delivery times, and reduce food wastage. These efforts collectively contribute to elevating fan satisfaction, enriching the overall experience, and increasing revenue within the sports industry.
 
 ## Project Assumptions
 To develop the dashboard, the following assumptions have been considered:
@@ -53,29 +53,29 @@ Several metrics drive project evaluation and enhancement:
 
 #### 1. Audience Metrics:
 
-a. Total spectators count
-b. Gender distribution
-c. Age distribution
-d. Support distribution for each team
-e. Distribution based on seat location
+* Total spectators count
+* Gender distribution
+* Age distribution
+* Support distribution for each team
+* Distribution based on seat location
 
 #### 2. Menu Metrics:
 
-a. Orders for each menu item
-b. Dietary preference distribution
+* Orders for each menu item
+* Dietary preference distribution
 
 #### 3. Order Metrics:
 
-a. Total orders during the match
-b. Order distribution concerning match events and timing
-c. Sales revenue
+* Total orders during the match
+* Order distribution concerning match events and timing
+* Sales revenue
 
 #### 4. Event Metrics:
 
-a. Goals scored by each team
-b. Corner kicks by each team
-c. Yellow and red cards issued
-d. Penalties awarded and converted
+* Goals scored by each team
+* Corner kicks by each team
+* Yellow and red cards issued
+* Penalties awarded and converted
 
 These metrics offer insights into audience engagement, food ordering patterns, and match experience. The data derived aids in pinpointing improvements and optimizing future spectator experiences.
 
