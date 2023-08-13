@@ -2,6 +2,8 @@
 
 The FIFA World Cup Sales Dashboard focuses on enhancing the fan experience and boosting revenue at the FIFA World Cup through an innovative visual dashboard. This dashboard monitors food preferences and vital metrics such as wait times, menu items, and sales data. By incorporating predictive analytics and artificial intelligence, the project aims to optimize inventory management, and delivery times, and reduce food wastage. These efforts collectively contribute to elevating fan satisfaction, enriching the overall experience, and increasing revenue within the sports industry.
 
+https://public.tableau.com/app/profile/divi.joshi/viz/Revised_16819069640000/Dashboard?publish=yes
+
 ## Project Assumptions
 To develop the dashboard, the following assumptions have been considered:
 
