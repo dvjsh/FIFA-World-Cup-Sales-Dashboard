@@ -18,7 +18,7 @@ To develop the dashboard, the following assumptions have been considered:
 ## Product Overview
 The project encompasses two vital components:
 
-### 1. Visualization Dashboard
+#### 1. Visualization Dashboard
 This dashboard is designed for vendors operating restaurants within the stadium. Key features include:
 
 a. Real-time food item data to facilitate accurate inventory management and minimize food wastage.
@@ -28,7 +28,7 @@ d. Visual representation of significant match events and their influence on cust
 e. Zone-specific data to offer tailored promotions in areas with lower order activity, using machine learning insights.
 f. Gender-based data to discern age and gender trends in order behavior (see Appendix D).
 
-### 2. Food Ordering App
+#### 2. Food Ordering App
 The app, accessible via a QR code on the ticket, offers the following advantages to customers:
 
 a. Seamless ordering experience from their seats, eliminating the need to queue.
@@ -51,7 +51,7 @@ The individual spectator attending the FIFA World Cup match, possessing a ticket
 ## Key Metrics
 Several metrics drive project evaluation and enhancement:
 
-### 1. Audience Metrics:
+#### 1. Audience Metrics:
 
 a. Total spectators count
 b. Gender distribution
@@ -59,18 +59,18 @@ c. Age distribution
 d. Support distribution for each team
 e. Distribution based on seat location
 
-### 2. Menu Metrics:
+#### 2. Menu Metrics:
 
 a. Orders for each menu item
 b. Dietary preference distribution
 
-### 3. Order Metrics:
+#### 3. Order Metrics:
 
 a. Total orders during the match
 b. Order distribution concerning match events and timing
 c. Sales revenue
 
-### 4. Event Metrics:
+#### 4. Event Metrics:
 
 a. Goals scored by each team
 b. Corner kicks by each team
